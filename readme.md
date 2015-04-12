@@ -5,7 +5,7 @@ Directory: `/Users/simon/Sites/lib`
 Which seems a logical place to put it.   
 Use   `ln -vs  /Users/simon/Sites/lib   lib`  to create a soft link from wherever needed to this lib.
 
-Also in github
+Also in github https://github.com/simondh/libs
 
 Libraries:
 
