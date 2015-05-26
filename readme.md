@@ -23,6 +23,10 @@ Libraries:
 * three.js
 * three.min.js
 	- The big WebGL library
+* Angular 1.3.2
+* bootstrap
+* d3
+
 
 
 
